@@ -5,8 +5,8 @@
 body {
   padding: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  background: grey;
-  color: black;
+  background: rgb(47, 46, 46);
+  color: white;
 }
 
 h1 {
@@ -36,5 +36,11 @@ h1 {
 .footer {
   background-color: #2F4F4F;
   padding: 1.5rem;
+}
+
+.facts-list {
+  list-style: none;
+  padding-block: 0.5rem;
+  line-height: 2rem;
 }
 
